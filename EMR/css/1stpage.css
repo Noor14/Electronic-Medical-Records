@@ -1,0 +1,231 @@
+﻿@import url("font-awesome.min.css");
+
+*{
+
+	margin: 0px;
+	padding:0px;
+}
+div.main{
+
+	margin: 0px auto;
+	/*background-color: blue;*/
+	/*height: 200px;*/
+	width: 1100px;
+	padding: 20px;
+
+}
+div#header{
+
+	background-color:white;
+	/*height: 300px;*/
+
+}
+div#header div.main div#logo{
+	float: left;
+	width: 60px;
+	height: 60px;
+	background-color: black;
+}
+
+div#header div.main  div#nav{
+	float: right;
+}
+div#header div.main  div#nav ul{
+
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	margin-left: 170px;
+}
+div#header div.main div#nav ul li{
+
+	width: 140px;
+	line-height: 35px;
+	float: left;
+	height: 35px;
+	background-color: rgba(0,0,0,0.3);
+	color: white;
+	margin-left: 1px;
+border-radius: 8px 8px 8px 8px;
+}
+div#header div.main div#nav ul li a{
+
+	text-decoration: none;
+display: block;
+text-align: center;
+color: white;
+}
+div#body{
+
+	/*background-color: gray;*/
+	background: url("../images/body.png") repeat-x fixed;
+	height: 900px;
+}
+
+div#body div.main div#sign{
+
+	position: fixed;
+	color: white;
+}
+div#body div.main div.login{
+	position: absolute;
+	display: none;
+	background-color: rgba(0,0,0,0.4);
+/*margin: 10px auto;*/
+width: 400px;
+padding: 30px;
+top: 0;
+left: 280px;
+}
+
+div#body div.main div.login p{
+	height: 30px;
+}
+
+div#body div.main  .panel{
+	padding: 6px;
+	border-radius: 4px 4px 4px 4px;
+	margin-bottom: 8px;
+}
+div#body div.main div.login .button{
+	width :120px;
+	float: right;
+	margin-right: 10px;
+}
+div#body div.main div.login span{
+	display: inline-block;
+	width: 80px;
+	/*background-color: red;*/
+	margin-right: 30px;
+	margin-left:20px;
+}
+div#body div.main div.lablogin{
+	position: absolute;
+	display: none;
+	background-color: rgba(0,0,0,0.4);
+/*margin: 10px auto;*/
+width: 400px;
+padding: 30px;
+top: 0;
+left: 280px;
+}
+
+div#body div.main div.lablogin p{
+	height: 30px;
+}
+
+
+div#body div.main div.lablogin .button{
+	width :120px;
+	float: right;
+	margin-right: 10px;
+}
+div#body div.main div.lablogin span{
+	display: inline-block;
+	width: 80px;
+	/*background-color: red;*/
+	margin-right: 30px;
+	margin-left:20px;
+}
+div#body div.main div.patientlogin{
+	position: absolute;
+	display: none;
+	background-color: rgba(0,0,0,0.4);
+/*margin: 10px auto;*/
+width: 400px;
+padding: 05px;
+top: 0;
+left: 280px;
+}
+
+div#body div.main div.patientlogin p{
+	height: 30px;
+    margin-left:20px;
+}
+
+
+div#body div.main div.patientlogin .button{
+	width :120px;
+	float: right;
+	margin-right: 10px;
+}
+div#body div.main div.patientlogin span{
+	display: inline-block;
+	width: 80px;
+	/*background-color: red;*/
+	margin-right: 30px;
+	margin-left:20px;
+}
+
+
+div#body div.main div.signup{
+	position: absolute;
+	display: none;
+	background-color: rgba(0,0,0,0.4);
+top: 0px;
+left: 70px;
+width: 900px;
+padding: 5px;
+
+}
+div#body div.main div.signup p{
+	height: 30px;
+	/*width: 50px;*/
+}
+div.cross{
+	/*background-color: red;*/
+	height: 30px;
+}
+div.info{
+	float: left;
+	/*background-color: red;*/
+padding: 15px;
+}
+div.password{
+	float: right;
+	/*background-color: yellow;*/
+	padding: 15px;
+}
+div#body div.main div.labsignup{
+	position: absolute;
+	display: none;
+	background-color: rgba(0,0,0,0.4);
+top: 0px;
+left: 70px;
+width: 900px;
+padding: 5px;
+
+}
+div#body div.main div.signup .button{
+	float: right;
+	/*margin-right: 15px;*/
+}
+div#body div.main div.labsignup p{
+	height: 30px;
+	/*width: 50px;*/
+}
+
+div#body div.main div.labsignup .button{
+	width :120px;
+	float: right;
+	/*margin-right: 15px;*/
+}
+div#body div.main div.labsignup span{
+	display: inline-block;
+	width: 120px;
+	/*background-color: red;*/
+	margin-right: 32px;
+}
+
+div#body div.main div.signup span{
+	display: inline-block;
+	width: 120px;
+	/*background-color: red;*/
+	margin-right: 32px;
+}
+
+div#footer{
+
+	background-color: black;
+	height: 200px;
+}
