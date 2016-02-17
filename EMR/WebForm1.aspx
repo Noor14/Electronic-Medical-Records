@@ -99,9 +99,8 @@
 	
 		<span>Register Id</span><asp:TextBox ID="TextBox1" CssClass="panel" placeholder="Registered ID*" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox><br />
         <span>Password</span><asp:TextBox ID="TextBox2" CssClass="panel" TextMode="Password" placeholder="Password*" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox><br />
-        <asp:Button  OnClientClick="return false" ID="Button1" CssClass="panel button Account" runat="server" Text="Signup"  />
-        <asp:Button  ID="Button2" CssClass="panel button" runat="server" Text="Login" OnClick="Button2_Click" />
-        <asp:Label ID="loginlabel" runat="server" Text="Label" ForeColor="Red"></asp:Label>
+        <asp:Button OnClientClick="return false" ID="Button1" CssClass="panel button Account" runat="server" Text="Signup"  />
+        <asp:Button OnClientClick="return false" ID="Button2" CssClass="panel button" runat="server" Text="Login" OnClick="Button2_Click" />
         
      
 <div style="clear:both"></div>
@@ -118,9 +117,8 @@
 		<div class="password"><span>Password</span><asp:TextBox ID="TextBox7" CssClass="panel" TextMode="Password" placeholder="Password*" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox><br />
 		<span>Retype Password</span><asp:TextBox ID="TextBox8" CssClass="panel" TextMode="Password" placeholder="Retype Password*" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox><br />
 		<span style="float:left;">Clinic Address</span><asp:TextBox ID="TextBox9" CssClass="panel" runat="server" placeholder="Address*" Columns="34" Rows="3" TextMode="MultiLine" Wrap="False"> </asp:TextBox><br />
-        <asp:Button  ID="Button3" CssClass="panel button" runat="server" Text="Create Account" OnClick="Button3_Click" Height="41px" /></div>
-        <asp:Label ID="lblMessage1" runat="server" ForeColor="Red"></asp:Label>
-        <asp:Label ID="checklabel" runat="server" Text="Label"></asp:Label>
+        <asp:Button OnClientClick="return false" ID="Button3" CssClass="panel button" runat="server" Text="Create Account" OnClick="Button2_Click" /></div>
+    
 <div style="clear:both"></div>
 
 	</div>

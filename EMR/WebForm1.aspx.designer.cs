@@ -58,15 +58,6 @@ namespace EMR {
         protected global::System.Web.UI.WebControls.Button Button2;
         
         /// <summary>
-        /// loginlabel control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label loginlabel;
-        
-        /// <summary>
         /// TextBox3 control.
         /// </summary>
         /// <remarks>
@@ -137,24 +128,6 @@ namespace EMR {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button3;
-        
-        /// <summary>
-        /// lblMessage1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblMessage1;
-        
-        /// <summary>
-        /// checklabel control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label checklabel;
         
         /// <summary>
         /// TextBox11 control.

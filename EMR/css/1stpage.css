@@ -66,6 +66,7 @@ div#body div.main div#sign{
 
 	position: fixed;
 	color: white;
+    
 }
 div#body div.main div.login{
 	position: absolute;
@@ -84,6 +85,7 @@ div#body div.main div.login p{
 
 div#body div.main  .panel{
 	padding: 6px;
+	width: 240px;
 	border-radius: 4px 4px 4px 4px;
 	margin-bottom: 8px;
 }
@@ -197,6 +199,7 @@ padding: 5px;
 
 }
 div#body div.main div.signup .button{
+	width :120px;
 	float: right;
 	/*margin-right: 15px;*/
 }

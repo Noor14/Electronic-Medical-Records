@@ -4,21 +4,3 @@ D:\EMR\EMR\bin\EMR.pdb
 D:\EMR\EMR\obj\Debug\EMR.csprojResolveAssemblyReference.cache
 D:\EMR\EMR\obj\Debug\EMR.dll
 D:\EMR\EMR\obj\Debug\EMR.pdb
-C:\Users\ASP\Documents\Noor\EMR\EMR\bin\EMR.dll.config
-C:\Users\ASP\Documents\Noor\EMR\EMR\bin\EMR.dll
-C:\Users\ASP\Documents\Noor\EMR\EMR\bin\EMR.pdb
-C:\Users\ASP\Documents\Noor\EMR\EMR\obj\Debug\EMR.csprojResolveAssemblyReference.cache
-C:\Users\ASP\Documents\Noor\EMR\EMR\obj\Debug\EMR.dll
-C:\Users\ASP\Documents\Noor\EMR\EMR\obj\Debug\EMR.pdb
-D:\Projects\EMR\WEBSITE\EMR\bin\EMR.dll.config
-D:\Projects\EMR\WEBSITE\EMR\bin\EMR.dll
-D:\Projects\EMR\WEBSITE\EMR\bin\EMR.pdb
-D:\Projects\EMR\WEBSITE\EMR\obj\Debug\EMR.csprojResolveAssemblyReference.cache
-D:\Projects\EMR\WEBSITE\EMR\obj\Debug\EMR.dll
-D:\Projects\EMR\WEBSITE\EMR\obj\Debug\EMR.pdb
-C:\Users\PHP Developer\Desktop\WEBSITE\EMR\bin\EMR.dll.config
-C:\Users\PHP Developer\Desktop\WEBSITE\EMR\bin\EMR.dll
-C:\Users\PHP Developer\Desktop\WEBSITE\EMR\bin\EMR.pdb
-C:\Users\PHP Developer\Desktop\WEBSITE\EMR\obj\Debug\EMR.csprojResolveAssemblyReference.cache
-C:\Users\PHP Developer\Desktop\WEBSITE\EMR\obj\Debug\EMR.dll
-C:\Users\PHP Developer\Desktop\WEBSITE\EMR\obj\Debug\EMR.pdb
